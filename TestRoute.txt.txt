@@ -1,0 +1,28 @@
+Route:
+
+Start:
+304 La Canada
+L - Cerro Romauldo     35.295145,-120.679012
+R - Tassajara          35.295162,-120.678036
+L - Foothill           35.294138,-120.678025
+Stop Light Broad       35.294094,-120.671695
+Stop Light Chorro      35.294085,-120.670869
+L - Santa Rosa         35.294068,-120.668079
+R - Highlands          35.298385,-120.673626
+R - California	       35.302702,-120.666577
+Stop Sign              35.300591,-120.666223
+Stop Light             35.298936,-120.665804
+Stop Sign              35.296419,-120.664946
+Foothill Light         35.295013,-120.663841
+R - Mill               35.287631,-120.655923
+Stop Sign Mill/Johnson 35.285937,-120.658707
+R - Santa Rosa         35.28433,-120.661449
+Stop Light Walnut      35.285906,-120.662853
+Stop Light Olive       35.287491,-120.664254
+Stop Light Murray      35.290828,-120.666861
+L - Foothill           35.294024,-120.667832
+Stop Light Chorro      35.294085,-120.670869
+Stop Light Broad       35.294094,-120.671695
+R - Tassajara          35.294147,-120.678014
+L - Cerro Romaulda     35.29518,-120.678036
+R - La Canada          35.295145,-120.679012

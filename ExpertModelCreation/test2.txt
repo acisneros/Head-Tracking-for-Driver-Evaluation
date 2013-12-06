@@ -1,0 +1,114 @@
+//1. straight
+Frame#: 1   Rotation: X = 12.6385  Y = 1.476063  TimeStamp: 17:30:16.9038416
+Frame#: 2   Rotation: X = 11.20586  Y = 3.701501  TimeStamp: 17:30:17.9351724
+Frame#: 3   Rotation: X = 8.590738  Y = 3.8996  TimeStamp: 17:30:18.9352525
+Frame#: 4   Rotation: X = 11.43398  Y = 4.864475  TimeStamp: 17:30:19.9353309
+Frame#: 5   Rotation: X = 11.50806  Y = 5.793029  TimeStamp: 17:30:20.9354101
+Frame#: 6   Rotation: X = 9.019288  Y = 3.782779  TimeStamp: 17:30:21.9311174
+Frame#: 7   Rotation: X = 10.54308  Y = 7.391158  TimeStamp: 17:30:22.9311966
+Frame#: 8   Rotation: X = 8.758166  Y = 4.073781  TimeStamp: 17:30:23.9312763
+Frame#: 9   Rotation: X = 7.583589  Y = 2.260599  TimeStamp: 17:30:24.9313547
+Frame#: 10   Rotation: X = 9.141085  Y = 4.840381  TimeStamp: 17:30:25.9314343
+//2. left
+Frame#: 11   Rotation: X = 10.74726  Y = 28.28784  TimeStamp: 17:30:26.9315132
+Frame#: 12   Rotation: X = 12.35238  Y = 25.75214  TimeStamp: 17:30:27.9315924
+//3. right
+Frame#: 13   Rotation: X = 9.403493  Y = -35.17216  TimeStamp: 17:30:28.9785517
+Frame#: 14   Rotation: X = 9.614488  Y = -32.3685  TimeStamp: 17:30:29.9630038
+//4. left
+Frame#: 15   Rotation: X = 7.837542  Y = 34.43816  TimeStamp: 17:30:30.9630826
+Frame#: 16   Rotation: X = 8.413828  Y = 34.44022  TimeStamp: 17:30:31.9631623
+Frame#: 17   Rotation: X = 10.62238  Y = 33.08091  TimeStamp: 17:30:32.9788869
+Frame#: 18   Rotation: X = 9.723872  Y = 29.8923  TimeStamp: 17:30:33.9789475
+//5. straight
+Frame#: 19   Rotation: X = 9.337099  Y = -0.6834921  TimeStamp: 17:30:34.9633996
+Frame#: 20   Rotation: X = 8.391158  Y = 0.676224  TimeStamp: 17:30:35.9634793
+Frame#: 21   Rotation: X = 9.142694  Y = 0.5195269  TimeStamp: 17:30:36.9635581
+Frame#: 22   Rotation: X = 10.80919  Y = -0.4509  TimeStamp: 17:30:37.9636378
+//6. left
+Frame#: 23   Rotation: X = 6.869261  Y = 35.33761  TimeStamp: 17:30:38.9637175
+Frame#: 24   Rotation: X = 8.431978  Y = 33.42497  TimeStamp: 17:30:39.9637963
+Frame#: 25   Rotation: X = 8.456302  Y = 30.33094  TimeStamp: 17:30:40.9638756
+Frame#: 26   Rotation: X = 9.904502  Y = 28.30645  TimeStamp: 17:30:41.9843235
+//7. right
+Frame#: 27   Rotation: X = 4.847181  Y = -27.33728  TimeStamp: 17:30:43.0000317
+Frame#: 28   Rotation: X = 4.45963  Y = -26.9871  TimeStamp: 17:30:44.0001105
+Frame#: 29   Rotation: X = 5.355653  Y = -22.66522  TimeStamp: 17:30:45.0002080
+Frame#: 30   Rotation: X = 6.089297  Y = -17.51364  TimeStamp: 17:30:46.0002694
+//8. straight
+Frame#: 31   Rotation: X = 7.934413  Y = 2.385416  TimeStamp: 17:30:47.0003487
+Frame#: 32   Rotation: X = 7.860774  Y = 1.383761  TimeStamp: 17:30:48.0004283
+Frame#: 33   Rotation: X = 6.335977  Y = 3.483535  TimeStamp: 17:30:49.0161525
+Frame#: 34   Rotation: X = 8.797585  Y = 1.927485  TimeStamp: 17:30:50.0005864
+Frame#: 35   Rotation: X = 8.404422  Y = 2.114101  TimeStamp: 17:30:51.0006656
+Frame#: 36   Rotation: X = 7.808188  Y = 2.505584  TimeStamp: 17:30:52.0007449
+Frame#: 37   Rotation: X = 9.262773  Y = 3.564091  TimeStamp: 17:30:53.0008420
+Frame#: 38   Rotation: X = 10.60959  Y = 3.507634  TimeStamp: 17:30:54.0009038
+Frame#: 39   Rotation: X = 11.15441  Y = 2.765875  TimeStamp: 17:30:55.0166276
+Frame#: 40   Rotation: X = 9.048106  Y = 5.284475  TimeStamp: 17:30:56.0010619
+//9. left
+Frame#: 41   Rotation: X = 5.921113  Y = 34.30802  TimeStamp: 17:30:57.0011411
+Frame#: 42   Rotation: X = 7.746271  Y = 31.20219  TimeStamp: 17:30:58.0168649
+Frame#: 43   Rotation: X = 5.801573  Y = 28.86511  TimeStamp: 17:30:59.0013139
+//10. straight
+Frame#: 44   Rotation: X = 8.204795  Y = -4.809687  TimeStamp: 17:31:00.0170203
+Frame#: 45   Rotation: X = 8.618327  Y = -2.795804  TimeStamp: 17:31:01.0014590
+Frame#: 46   Rotation: X = 6.283645  Y = -1.532068  TimeStamp: 17:31:02.0171823
+Frame#: 47   Rotation: X = 6.981685  Y = -0.1866581  TimeStamp: 17:31:03.0126211
+Frame#: 48   Rotation: X = 12.3665  Y = 1.400925  TimeStamp: 17:31:04.0127003
+Frame#: 49   Rotation: X = 9.843971  Y = -1.543202  TimeStamp: 17:31:05.0127653
+Frame#: 50   Rotation: X = 10.1226  Y = 2.067011  TimeStamp: 17:31:05.9972312
+Frame#: 51   Rotation: X = 8.684598  Y = 2.380827  TimeStamp: 17:31:07.0129403
+Frame#: 52   Rotation: X = 10.16123  Y = 1.747799  TimeStamp: 17:31:07.9973906
+Frame#: 53   Rotation: X = 10.15845  Y = 1.947614  TimeStamp: 17:31:08.9974672
+Frame#: 54   Rotation: X = 9.923996  Y = 0.7723488  TimeStamp: 17:31:10.0131580
+Frame#: 55   Rotation: X = 8.480318  Y = 1.990698  TimeStamp: 17:31:11.0132368
+Frame#: 56   Rotation: X = 9.225275  Y = 1.983745  TimeStamp: 17:31:12.0133165
+Frame#: 57   Rotation: X = 6.691592  Y = -0.8539577  TimeStamp: 17:31:12.9977677
+Frame#: 58   Rotation: X = 6.981209  Y = -0.1057669  TimeStamp: 17:31:13.9978470
+Frame#: 59   Rotation: X = 9.491592  Y = -0.227495  TimeStamp: 17:31:14.9979810
+Frame#: 60   Rotation: X = 9.792405  Y = -0.4360869  TimeStamp: 17:31:16.0136330
+Frame#: 61   Rotation: X = 8.707439  Y = 0.4466858  TimeStamp: 17:31:16.9981390
+Frame#: 62   Rotation: X = -1.111789  Y = -3.062917  TimeStamp: 17:31:18.0294325
+Frame#: 63   Rotation: X = 0.839615  Y = -8.15574  TimeStamp: 17:31:19.0295144
+Frame#: 64   Rotation: X = 1.243558  Y = -5.22294  TimeStamp: 17:31:20.0296342
+//11. right
+Frame#: 65   Rotation: X = 2.757553  Y = -31.12383  TimeStamp: 17:31:21.7797136
+Frame#: 66   Rotation: X = -0.04453804  Y = -29.3612  TimeStamp: 17:31:22.7769702
+//12. straight
+Frame#: 67   Rotation: X = 3.632431  Y = 1.71504  TimeStamp: 17:31:23.7614570
+Frame#: 68   Rotation: X = 2.938143  Y = 1.798658  TimeStamp: 17:31:24.7771087
+Frame#: 69   Rotation: X = 5.707054  Y = 1.452125  TimeStamp: 17:31:25.7771875
+Frame#: 70   Rotation: X = 8.430112  Y = 2.552164  TimeStamp: 17:31:26.7772881
+Frame#: 71   Rotation: X = 5.943377  Y = 2.888178  TimeStamp: 17:31:27.7773669
+//13. left
+Frame#: 72   Rotation: X = -0.07124901  Y = 20.7671  TimeStamp: 17:31:28.8086768
+Frame#: 73   Rotation: X = -18.14594  Y = 40.72268  TimeStamp: 17:31:29.8087565
+Frame#: 74   Rotation: X = -11.00471  Y = 42.43311  TimeStamp: 17:31:30.8088357
+//14. right
+Frame#: 75   Rotation: X = 6.35575  Y = -31.87656  TimeStamp: 17:31:31.8401670
+Frame#: 76   Rotation: X = 9.081282  Y = -33.79116  TimeStamp: 17:31:32.8402476
+Frame#: 77   Rotation: X = 5.723386  Y = -25.84743  TimeStamp: 17:31:33.8715784
+//15. straight
+Frame#: 78   Rotation: X = 5.929964  Y = -1.887055  TimeStamp: 17:31:34.8716572
+Frame#: 79   Rotation: X = 7.958721  Y = -0.9489817  TimeStamp: 17:31:35.8717365
+Frame#: 80   Rotation: X = 6.527815  Y = 0.3531944  TimeStamp: 17:31:36.8718157
+Frame#: 81   Rotation: X = 8.299248  Y = 1.518655  TimeStamp: 17:31:37.8718950
+Frame#: 82   Rotation: X = 7.119972  Y = 1.608883  TimeStamp: 17:31:38.8719742
+Frame#: 83   Rotation: X = 6.539801  Y = 1.659366  TimeStamp: 17:31:39.8720544
+Frame#: 84   Rotation: X = 8.486859  Y = 2.410624  TimeStamp: 17:31:40.8721327
+Frame#: 85   Rotation: X = 9.587646  Y = 1.41769  TimeStamp: 17:31:41.8722120
+Frame#: 86   Rotation: X = 9.883761  Y = 1.688255  TimeStamp: 17:31:42.8722908
+Frame#: 87   Rotation: X = 10.27086  Y = 2.12817  TimeStamp: 17:31:43.8672536
+//16. left
+Frame#: 88   Rotation: X = 10.64301  Y = 11.06781  TimeStamp: 17:31:44.8829529
+Frame#: 89   Rotation: X = 7.248086  Y = 32.45252  TimeStamp: 17:31:45.8830325
+Frame#: 90   Rotation: X = 7.491039  Y = 31.94598  TimeStamp: 17:31:46.8674896
+Frame#: 91   Rotation: X = 9.448097  Y = 30.56117  TimeStamp: 17:31:47.8831910
+Frame#: 92   Rotation: X = 9.228346  Y = 31.6188  TimeStamp: 17:31:48.8832712
+//17. straight 
+Frame#: 93   Rotation: X = 9.13436  Y = 4.152344  TimeStamp: 17:31:49.8677278
+Frame#: 94   Rotation: X = 9.2378  Y = 1.998045  TimeStamp: 17:31:50.8834288
+Frame#: 95   Rotation: X = 7.102191  Y = 3.138673  TimeStamp: 17:31:51.8678831
+Frame#: 96   Rotation: X = 10.109  Y = 6.007795  TimeStamp: 17:31:52.8835882
+Frame#: 97   Rotation: X = 9.351236  Y = 6.946644  TimeStamp: 17:31:53.8836661

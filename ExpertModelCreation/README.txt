@@ -1,0 +1,3 @@
+== a-Head of the Curve: Head Tracking for Driver Evaluation ==
+
+This folder contains the files which were used to create the expert model. test1, test2, test4, and test5 were all run with the ExpertModel.java file, with test2 as the first “expert” file. Their cumulative average is contained in ExpertModel.txt, which serves as the starting point for the expert model in the directory above this one. You shouldn’t need to use these files unless you want to recover the original ExpertModel.txt.

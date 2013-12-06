@@ -1,0 +1,115 @@
+C:\Users\Mike\Documents\GitHub\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics.exe.config
+C:\Users\Mike\Documents\GitHub\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackData.dll
+C:\Users\Mike\Documents\GitHub\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\Mike\Documents\GitHub\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics.exe
+C:\Users\Mike\Documents\GitHub\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics.pdb
+C:\Users\Mike\Documents\GitHub\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Mike\Documents\GitHub\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Mike\Documents\GitHub\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\Mike\Documents\GitHub\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Mike\Documents\GitHub\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\GitHub\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingViewer.baml
+C:\Users\Mike\Documents\GitHub\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingViewer.g.cs
+C:\Users\Mike\Documents\GitHub\FaceTrackingBasics-WPF\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\Mike\Documents\GitHub\FaceTrackingBasics-WPF\obj\Win32\Debug\App.g.cs
+C:\Users\Mike\Documents\GitHub\FaceTrackingBasics-WPF\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mike\Documents\GitHub\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics_MarkupCompile.cache
+C:\Users\Mike\Documents\GitHub\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics_MarkupCompile.lref
+C:\Users\Mike\Documents\GitHub\FaceTrackingBasics-WPF\obj\Win32\Debug\MainWindow.baml
+C:\Users\Mike\Documents\GitHub\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics.g.resources
+C:\Users\Mike\Documents\GitHub\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics.Properties.Resources.resources
+C:\Users\Mike\Documents\GitHub\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Mike\Documents\GitHub\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics.exe
+C:\Users\Mike\Documents\GitHub\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics.pdb
+C:\Users\Mike\Documents\GitHub\Distracted-Driver-Detection\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics.exe.config
+C:\Users\Mike\Documents\GitHub\Distracted-Driver-Detection\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics.exe
+C:\Users\Mike\Documents\GitHub\Distracted-Driver-Detection\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics.pdb
+C:\Users\Mike\Documents\GitHub\Distracted-Driver-Detection\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackData.dll
+C:\Users\Mike\Documents\GitHub\Distracted-Driver-Detection\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\Mike\Documents\GitHub\Distracted-Driver-Detection\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics.exe
+C:\Users\Mike\Documents\GitHub\Distracted-Driver-Detection\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics.pdb
+C:\Users\Mike\Documents\GitHub\Distracted-Driver-Detection\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Mike\Documents\GitHub\Distracted-Driver-Detection\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Mike\Documents\GitHub\Distracted-Driver-Detection\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\Mike\Documents\GitHub\Distracted-Driver-Detection\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Mike\Documents\GitHub\Distracted-Driver-Detection\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\GitHub\Distracted-Driver-Detection\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingViewer.baml
+C:\Users\Mike\Documents\GitHub\Distracted-Driver-Detection\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingViewer.g.cs
+C:\Users\Mike\Documents\GitHub\Distracted-Driver-Detection\FaceTrackingBasics-WPF\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\Mike\Documents\GitHub\Distracted-Driver-Detection\FaceTrackingBasics-WPF\obj\Win32\Debug\App.g.cs
+C:\Users\Mike\Documents\GitHub\Distracted-Driver-Detection\FaceTrackingBasics-WPF\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mike\Documents\GitHub\Distracted-Driver-Detection\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics_MarkupCompile.cache
+C:\Users\Mike\Documents\GitHub\Distracted-Driver-Detection\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics_MarkupCompile.lref
+C:\Users\Mike\Documents\GitHub\Distracted-Driver-Detection\FaceTrackingBasics-WPF\obj\Win32\Debug\MainWindow.baml
+C:\Users\Mike\Documents\GitHub\Distracted-Driver-Detection\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics.g.resources
+C:\Users\Mike\Documents\GitHub\Distracted-Driver-Detection\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics.Properties.Resources.resources
+C:\Users\Mike\Documents\GitHub\Distracted-Driver-Detection\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Brian\Desktop\PROJECT 480\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics.exe.config
+C:\Users\Brian\Desktop\PROJECT 480\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics.exe
+C:\Users\Brian\Desktop\PROJECT 480\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics.pdb
+C:\Users\Brian\Desktop\PROJECT 480\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackData.dll
+C:\Users\Brian\Desktop\PROJECT 480\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\Brian\Desktop\PROJECT 480\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics.exe
+C:\Users\Brian\Desktop\PROJECT 480\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics.pdb
+C:\Users\Brian\Desktop\PROJECT 480\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Brian\Desktop\PROJECT 480\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Brian\Desktop\PROJECT 480\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\Brian\Desktop\PROJECT 480\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Brian\Desktop\PROJECT 480\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\PROJECT 480\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingViewer.baml
+C:\Users\Brian\Desktop\PROJECT 480\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingViewer.g.cs
+C:\Users\Brian\Desktop\PROJECT 480\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\Brian\Desktop\PROJECT 480\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\App.g.cs
+C:\Users\Brian\Desktop\PROJECT 480\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Brian\Desktop\PROJECT 480\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics_MarkupCompile.cache
+C:\Users\Brian\Desktop\PROJECT 480\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics_MarkupCompile.lref
+C:\Users\Brian\Desktop\PROJECT 480\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\MainWindow.baml
+C:\Users\Brian\Desktop\PROJECT 480\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics.g.resources
+C:\Users\Brian\Desktop\PROJECT 480\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics.Properties.Resources.resources
+C:\Users\Brian\Desktop\PROJECT 480\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Brian\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics.exe.config
+C:\Users\Brian\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics.exe
+C:\Users\Brian\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics.pdb
+C:\Users\Brian\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackData.dll
+C:\Users\Brian\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\Brian\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics.exe
+C:\Users\Brian\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics.pdb
+C:\Users\Brian\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Brian\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Brian\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\Brian\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Brian\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingViewer.baml
+C:\Users\Brian\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingViewer.g.cs
+C:\Users\Brian\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\Brian\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\App.g.cs
+C:\Users\Brian\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Brian\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics_MarkupCompile.cache
+C:\Users\Brian\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics_MarkupCompile.lref
+C:\Users\Brian\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\MainWindow.baml
+C:\Users\Brian\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics.g.resources
+C:\Users\Brian\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics.Properties.Resources.resources
+C:\Users\Brian\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Anthony\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics.exe.config
+C:\Users\Anthony\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics.exe
+C:\Users\Anthony\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics.pdb
+C:\Users\Anthony\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackData.dll
+C:\Users\Anthony\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\Anthony\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics.exe
+C:\Users\Anthony\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics.pdb
+C:\Users\Anthony\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Anthony\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Anthony\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\Anthony\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Anthony\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingViewer.baml
+C:\Users\Anthony\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingViewer.g.cs
+C:\Users\Anthony\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\Anthony\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\App.g.cs
+C:\Users\Anthony\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Anthony\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics_MarkupCompile.cache
+C:\Users\Anthony\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics_MarkupCompile.lref
+C:\Users\Anthony\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\MainWindow.baml
+C:\Users\Anthony\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics.g.resources
+C:\Users\Anthony\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics.Properties.Resources.resources
+C:\Users\Anthony\Dropbox\Distracted-Driver-Detection-master\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.csproj.GenerateResource.Cache
